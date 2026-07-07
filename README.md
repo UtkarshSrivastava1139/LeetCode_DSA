@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/1009-complement-of-base-10-integer) |
 ## Math
@@ -16,9 +17,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
