@@ -15,8 +15,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
