@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0485-max-consecutive-ones) |
 ## Bit Manipulation
 |  |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0342-power-of-four) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
