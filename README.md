@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0371-sum-of-two-integers) |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
