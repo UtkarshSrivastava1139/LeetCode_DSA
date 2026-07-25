@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0724-find-pivot-index) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
