@@ -4,9 +4,8 @@ public:
         unordered_set<int> seen;
 
         for(int i = 0; i<nums.size(); i++){
-            auto it = seen.find(nums[i]);
-            if(it != seen.end()) return true;
-            else seen.insert(nums[i]);
+            if(seen.find(nums[i]) != seen.end()) return true;
+            seen.insert(nums[i]);
         }
         return false;
     }
