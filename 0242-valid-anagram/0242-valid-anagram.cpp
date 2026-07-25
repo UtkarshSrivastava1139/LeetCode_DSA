@@ -10,12 +10,7 @@ public:
         for(char c : t){
             freq2[c]++;
         }
-
-        for(char c : t){
-            freq1.count(c);
-            freq2.count(c);
-            if(freq1 != freq2) return false;
-        }
+        if(freq1 != freq2) return false;
         return true;
 
     }
