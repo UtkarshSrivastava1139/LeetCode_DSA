@@ -3,10 +3,16 @@ public:
     bool containsDuplicate(vector<int>& nums) {
         unordered_set<int> seen;
 
+        //for(int i = 0; i<nums.size(); i++){
+        //    if(seen.find(nums[i]) != seen.end()) return true;
+         //   seen.insert(nums[i]);
+       // }
+
         for(int i = 0; i<nums.size(); i++){
-            if(seen.find(nums[i]) != seen.end()) return true;
+            if(seen.count(nums[i])) return true; //or if(seen.count(num[i])) return true;
             seen.insert(nums[i]);
         }
+
         return false;
     }
 };
