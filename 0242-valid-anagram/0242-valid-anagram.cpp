@@ -10,8 +10,10 @@ public:
         for(char c : t){
             freq2[c]++;
         }
-        if(freq1 != freq2) return false;
-        return true;
+        ///if(freq1 != freq2) return false;
+        //return true;
+
+        return(freq1 == freq2);
 
     }
 };
