@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0877-stone-game) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0242-valid-anagram) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0877-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
