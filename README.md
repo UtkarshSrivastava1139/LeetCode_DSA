@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0371-sum-of-two-integers) |
+| [0877-stone-game](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
