@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0877-stone-game) |
+| [3731-find-missing-elements](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/UtkarshSrivastava1139/LeetCode_DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
